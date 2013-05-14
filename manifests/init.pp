@@ -15,7 +15,7 @@ class rt (
 
     #
     case $dbtype {
-        'mysql':    { $db_pgk = "$rt::params::rt_db_mysql" }
+        'mysql':    { $db_pkg = "$rt::params::rt_db_mysql" }
         'oracle':   { $db_pkg = "$rt::params::rt_db_oracle" }
         'postgres': { $db_pkg = "$rt::params::rt_db_postgres" }
         'sqlite':   { $db_pkg = "$rt::params::rt_db_sqlite" }
