@@ -97,6 +97,7 @@ Contributors
 ------------
 
  * Darin Perusich <darin@darins.net> 
+ * Puppet Labs <info@puppetlabs.com>
 
 
 Copyright and License
