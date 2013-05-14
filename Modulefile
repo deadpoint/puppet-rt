@@ -1,8 +1,8 @@
 
 ## Add dependencies, if any:
 name    ' puppet-rt'
-version '0.0.1'
-source 'https://github.com/misteritguru/puppet-rt'
+version '0.0.2'
+source 'https://github.com/deadpoint/puppet-rt'
 author 'Darin Perusich'
 license 'Apache License, Version 2.0'
 summary 'Puppet module of managing Request Tracker'
