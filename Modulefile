@@ -1,7 +1,7 @@
 
 ## Add dependencies, if any:
 name    'puppet-rt'
-version '0.0.3'
+version '0.0.4'
 source 'https://github.com/deadpoint/puppet-rt'
 author 'Darin Perusich'
 license 'Apache License, Version 2.0'
