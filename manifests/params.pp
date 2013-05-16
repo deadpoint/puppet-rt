@@ -36,6 +36,7 @@ class rt::params {
                 'mergeusers'            => 'perl-RT-Extension-MergeUsers',
                 'mobileui'              => 'perl-RT-Extension-MobileUI',
                 'repliestoresolved'     => 'perl-RT-Extension-RepliesToResolved',
+                'notifyowners'          => 'perl-RT-Extension-NotifyOwners',
             }
         }
         default: { fail("Unsupported platform: ${::osfamily}") }
