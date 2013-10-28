@@ -37,6 +37,7 @@ class rt::params {
                 'mobileui'              => 'perl-RT-Extension-MobileUI',
                 'repliestoresolved'     => 'perl-RT-Extension-RepliesToResolved',
                 'notifyowners'          => 'perl-RT-Extension-NotifyOwners',
+                'priorityasstring'      => 'perl-RT-Extension-PriorityAsString',
             }
         }
         default: { fail("Unsupported platform: ${::osfamily}") }
