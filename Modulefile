@@ -1,6 +1,6 @@
 
 ## Add dependencies, if any:
-name    'puppet-rt'
+name    'darin-rt'
 version '0.0.5'
 source 'https://github.com/deadpoint/puppet-rt'
 author 'Darin Perusich'
