@@ -23,6 +23,7 @@ class rt::params {
             #
             $ext_packages   = {
                 'assettracker'          => 'perl-RTx-AssetTracker',
+                'assets'                => 'perl-RT-Extension-Assets',
                 'jsgantt'               => 'perl-RT-Extension-JSGantt',
                 'activityreports'       => 'perl-RT-Extension-ActivityReports',
                 'externalauth'          => 'perl-RT-Authen-ExternalAuth',
